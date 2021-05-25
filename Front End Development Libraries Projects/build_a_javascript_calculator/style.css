@@ -1,0 +1,88 @@
+@import url('https://fonts.googleapis.com/css2?family=Baloo+2:wght@500&display=swap');
+
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+}
+
+body {
+  background-color: #141414;
+}
+
+#calculator {
+  display: grid;
+  justify-content: center;
+  align-content: center;
+  min-height: 100vh;
+  grid-template-columns: repeat(4, 80px);
+  grid-template-rows: minmax(160px, auto) repeat (5, 10px);
+  -webkit-user-select: none; /* Chrome all / Safari all */
+  -moz-user-select: none; /* Firefox all */
+  -ms-user-select: none; /* IE 10+ */
+  user-select: none;
+}
+
+#display {
+  display: flex;
+  background-color: #c9c9c9;
+  border-radius: 4px;
+  grid-column: span 3;
+  margin: 2px;
+  font-family: 'Baloo 2', cursive;
+  font-weight: 600;
+  font-size: 30px;
+  align-items: center;
+  justify-content: flex-end;
+  line-height: 1.1em;
+  padding-right: 4px;
+  padding-left: 4px;
+  word-wrap: break-word;
+  word-break: break-all;
+}
+
+.button {
+  background-color: #2f3332;
+  border-radius: 4px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-family: 'Baloo 2', cursive;
+  font-weight: 100;
+  font-size: 25px;
+  color: #d7dadc;
+  height: 80px;
+  margin: 2px;
+}
+
+.button:hover {
+  background-color: #555454;
+}
+
+.button:active {
+  background-color: #2f3332;
+}
+
+#clear {
+  background-color: #fc6000;
+}
+
+#clear:hover {
+  background-color: #ff0700;
+}
+
+#clear:active {
+  background-color: #fc6000;
+}
+
+.button.math {
+  background-color: #4e4e4e;
+}
+
+.button.math:hover {
+  background-color: #696969;
+}
+
+.button.math:active {
+  background-color: #4e4e4e;
+}

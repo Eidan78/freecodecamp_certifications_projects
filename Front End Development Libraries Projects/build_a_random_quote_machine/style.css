@@ -1,0 +1,124 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato:wght@100;300;900&display=swap');
+
+body {
+  margin: 0;
+  opacity: 1;
+  transition: opacity 2s;
+  -webkit-transition: opacity 2s; /* Safari */
+}
+
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+}
+
+.container {
+  width: 100vw;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  flex-flow: row;
+  align-items: center;
+  transition-duration: 0.7s;
+}
+
+#quote-box {
+  width: 350px;
+  min-width: 350px;
+  border: 10px solid rgba(0, 0, 0, 0.9);
+  box-shadow: inset -7px 0 19px -7px rgba(0, 0, 0, 0.9),
+    -26px 12px 33px -8px rgba(0, 0, 0, 0.5);
+  display: flex;
+  flex-direction: column;
+  align-items: left;
+}
+
+#text {
+  font-size: 1.8em;
+  font-family: 'Lato', sans-serif;
+  color: rgba(0, 0, 0, 0.9);
+  font-weight: 900;
+  line-height: 1em;
+  text-transform: uppercase;
+  text-align: left;
+  padding: 0 30px 0 30px;
+}
+
+.fas {
+  color: rgba(255, 255, 255, 0.9);
+  font-size: 70px;
+  padding: 30px 0 0 30px;
+  transition-duration: 0.4s;
+}
+
+#author {
+  font-family: 'Lato', sans-serif;
+  font-weight: 500;
+  font-size: 18px;
+  color: rgba(255, 255, 255, 1);
+  text-align: right;
+  padding: 0 30px 0 0;
+  margin-top: 20px;
+  margin-bottom: 40px;
+}
+
+#tweet-quote {
+  outline: none;
+  border: none;
+  background-color: Transparent;
+}
+
+.fa-twitter:hover {
+  transition-duration: 0.7s;
+  color: black !important;
+}
+
+#new-quote {
+  outline: none;
+  border: none;
+  background-color: Transparent;
+}
+
+.fa-random:hover {
+  transition-duration: 0.7s;
+  color: black !important;
+}
+
+.fab {
+  font-size: 20px;
+  color: rgba(0, 0, 0, 0.2);
+  transition-duration: 0.7s;
+}
+
+.fa {
+  font-size: 20px;
+  color: rgba(0, 0, 0, 0.2);
+  transition-duration: 0.7s;
+}
+
+#buttons {
+  position: relative;
+  border-top-right-radius: 10px;
+  border-bottom-right-radius: 10px;
+  width: 60px;
+  height: 70px;
+  display: flex;
+  align-items: center;
+  flex-flow: row-reverse;
+  margin-left: 140px;
+  margin-bottom: -80px;
+  justify-content: space-evenly;
+}
+
+hr {
+  width: 23px;
+  border-color: rgba(0, 0, 0, 0.1);
+  margin: 0;
+  padding: 0;
+  -webkit-transform: rotate(-180deg);
+}
+
+a {
+  cursor: pointer;
+}
