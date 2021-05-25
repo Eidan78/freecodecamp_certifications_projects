@@ -18,5 +18,5 @@
 
 ### Data Visualization Projects
 
-- [Bar chart](https://github.com/Eidan78/freecodecamp_certifications_projects/tree/main/Data%20Visualization%20Projects)
+- [Bar chart](https://github.com/Eidan78/freecodecamp_certifications_projects/tree/main/Data%20Visualization%20Projects/visualize_Data_with_bar_chart)
 - [Scatter plot](https://github.com/Eidan78/freecodecamp_certifications_projects/tree/main/Data%20Visualization%20Projects/visualize_Data_with_scatterplot_graph)
