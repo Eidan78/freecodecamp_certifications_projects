@@ -20,3 +20,10 @@
 
 - [Bar chart](https://github.com/Eidan78/freecodecamp_certifications_projects/tree/main/Data%20Visualization%20Projects/visualize_Data_with_bar_chart)
 - [Scatter plot](https://github.com/Eidan78/freecodecamp_certifications_projects/tree/main/Data%20Visualization%20Projects/visualize_Data_with_scatterplot_graph)
+
+### APIs and Microservices Projects
+
+- [Request Header Parser Microservice](https://github.com/Eidan78/freecodecamp_certifications_projects/tree/main/APIs%20and%20Microservices%20Projects/request_header_parser_microservice)
+- [URL Shortener Microservice](https://github.com/Eidan78/freecodecamp_certifications_projects/tree/main/APIs%20and%20Microservices%20Projects/URL_shortener_microservice)
+- [Exercise Tracker](https://github.com/Eidan78/freecodecamp_certifications_projects/tree/main/APIs%20and%20Microservices%20Projects/exercise_tracker)
+- [File Metadata Microservice](https://github.com/Eidan78/freecodecamp_certifications_projects/tree/main/APIs%20and%20Microservices%20Projects/file_metadata_microservice)
