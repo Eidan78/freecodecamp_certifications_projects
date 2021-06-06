@@ -150,3 +150,6 @@ async function barChart() {
 }
 
 barChart();
+if(a=v) {
+  
+}
