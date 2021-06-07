@@ -1,30 +1,34 @@
 # freecodecamp's Certifications Projects
 
-### Responsibe Web Design Projects
+***
 
-- [Tribute page](https://github.com/Eidan78/freecodecamp_certifications_projects/tree/main/Responsive%20Web%20Design%20Projects/build_a_tribue_page)
-- [Survey form](https://github.com/Eidan78/freecodecamp_certifications_projects/tree/main/Responsive%20Web%20Design%20Projects/build_a_survey_form)
-- [Product landing page](https://github.com/Eidan78/freecodecamp_certifications_projects/tree/main/Responsive%20Web%20Design%20Projects/build_a_product_landing_page)
-- [Technical documentation page](https://github.com/Eidan78/freecodecamp_certifications_projects/tree/main/Responsive%20Web%20Design%20Projects/build_a_techical_documentation_page)
-- [Personal portfolio webpage](https://github.com/Eidan78/freecodecamp_certifications_projects/tree/main/Responsive%20Web%20Design%20Projects/build_a_personal_portfolio_webpage)
+## Codepen live links
 
-### Front End Development Libraries Projects
+#### Responsibe Web Design Projects
 
-- [Random Quote Machine](https://github.com/Eidan78/freecodecamp_certifications_projects/tree/main/Front%20End%20Development%20Libraries%20Projects/build_a_random_quote_machine)
-- [Markdown previewer](https://github.com/Eidan78/freecodecamp_certifications_projects/tree/main/Front%20End%20Development%20Libraries%20Projects/build_a_markdown_previewer)
-- [Drum machine](https://github.com/Eidan78/freecodecamp_certifications_projects/tree/main/Front%20End%20Development%20Libraries%20Projects/build_a_drum_machine)
-- [Javascript calculator](https://github.com/Eidan78/freecodecamp_certifications_projects/tree/main/Front%20End%20Development%20Libraries%20Projects/build_a_javascript_calculator)
-- [25 + 5 Clock](https://github.com/Eidan78/freecodecamp_certifications_projects/tree/main/Front%20End%20Development%20Libraries%20Projects/build_a_25_5_clock)
+- [Tribute page](https://codepen.io/Eidan78/full/pWeEmb)
+- [Survey form](https://codepen.io/Eidan78/full/qKGpyY)
+- [Product landing page](https://codepen.io/Eidan78/full/yqZKJz)
+- [Technical documentation page](https://codepen.io/Eidan78/full/VBRwVY)
+- [Personal portfolio webpage](https://codepen.io/Eidan78/full/mpzmKm)
 
-### Data Visualization Projects
+#### Front End Development Libraries Projects
 
-- [Bar chart](https://github.com/Eidan78/freecodecamp_certifications_projects/tree/main/Data%20Visualization%20Projects/visualize_Data_with_bar_chart)
-- [Scatter plot](https://github.com/Eidan78/freecodecamp_certifications_projects/tree/main/Data%20Visualization%20Projects/visualize_Data_with_scatterplot_graph)
+- [Random Quote Machine](https://codepen.io/Eidan78/full/KKdWzVq)
+- [Markdown previewer](https://codepen.io/Eidan78/full/qBOXVvW)
+- [Drum machine](https://codepen.io/Eidan78/full/vYGjdoo)
+- [Javascript calculator](https://codepen.io/Eidan78/full/abpZKKV)
+- [25 + 5 Clock](https://codepen.io/Eidan78/full/gOgdqPN)
 
-### APIs and Microservices Projects
+#### Data Visualization Projects
 
-- [Timestamp Microservice](https://github.com/Eidan78/freecodecamp_certifications_projects/tree/main/APIs%20and%20Microservices%20Projects/request_header_parser_microservice)
-- [Request Header Parser Microservice](https://github.com/Eidan78/freecodecamp_certifications_projects/tree/main/APIs%20and%20Microservices%20Projects/request_header_parser_microservice)
-- [URL Shortener Microservice](https://github.com/Eidan78/freecodecamp_certifications_projects/tree/main/APIs%20and%20Microservices%20Projects/URL_shortener_microservice)
-- [Exercise Tracker](https://github.com/Eidan78/freecodecamp_certifications_projects/tree/main/APIs%20and%20Microservices%20Projects/exercise_tracker)
-- [File Metadata Microservice](https://github.com/Eidan78/freecodecamp_certifications_projects/tree/main/APIs%20and%20Microservices%20Projects/file_metadata_microservice)
+- [Bar chart](https://codepen.io/Eidan78/full/MWpgvvW)
+- [Scatter plot](https://codepen.io/Eidan78/full/xxqxaJO)
+
+#### APIs and Microservices Projects
+
+- [Timestamp Microservice](https://boilerplate-project-timestamp.eidan78.repl.co)
+- [Request Header Parser Microservice](https://boilerplate-project-headerparser-2.eidan78.repl.co)
+- [URL Shortener Microservice](https://boilerplate-project-urlshortener-3.eidan78.repl.co/)
+- [Exercise Tracker](https://boilerplate-project-exercisetracker.eidan78.repl.co/)
+- [File Metadata Microservice](https://boilerplate-project-filemetadata.eidan78.repl.co/)
