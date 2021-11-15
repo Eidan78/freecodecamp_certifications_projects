@@ -110,7 +110,7 @@ async function drawScatter() {
   const line = bounds
     .append('path')
     .attr('d', lineGenerator(dataset))
-    .attr('fill', 'none')p
+    .attr('fill', 'none')
     .attr('stroke', '#af9358')
     .attr('stroke-width', '2');
 }
