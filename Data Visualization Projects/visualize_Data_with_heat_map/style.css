@@ -1,0 +1,75 @@
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans&display=swap');
+
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+}
+
+body {
+  background-color: #f8f9fa;
+}
+
+#container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-flow: column;
+  min-height: 100vh;
+}
+
+h1 {
+  font-family: 'Noto Sans', sans-serif;
+  font-size: 20px;
+  color: #616161;
+  margin-top: -30px;
+}
+
+h2 {
+  font-family: 'Noto Sans', sans-serif;
+  font-size: 14px;
+  color: #616161;
+  margin-top: -5px;
+  margin-bottom: 30px;
+}
+
+#x-axis path,
+line {
+  color: #8a8a8a;
+}
+
+#y-axis path,
+line {
+  color: #8a8a8a;
+}
+
+#x-axis text,
+line {
+  color: #616161;
+}
+
+#y-axis text,
+line {
+  color: #616161;
+}
+
+#tooltip {
+  font-family: 'Noto Sans', sans-serif;
+  color: #616161;
+  border: 1px solid #b9b9b9;
+  font-size: 14px;
+  position: absolute;
+  text-align: left;
+  width: auto;
+  height: fit-content;
+  padding: 2px;
+  background: #f8f9fa;
+  border-radius: 8px;
+  pointer-events: none;
+  padding: 10px;
+}
+
+.legendText {
+  font-family: 'Noto Sans', sans-serif;
+  color: #616161;
+}
